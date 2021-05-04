@@ -19,7 +19,7 @@ function Navbar(props) {
                 <NavLink to="/documents" style={{margin: '0px 15px 0px 15px', display: 'inline-flex', alignItems: 'center'}}>
                     <EditIcon m="0px 5px 0px 0px"/>
                         <Text fontSize="xl">
-                            Documents
+                            New Documents
                         </Text>
                     </NavLink>
                 </Center>
